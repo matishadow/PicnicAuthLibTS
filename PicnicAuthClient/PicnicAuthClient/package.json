@@ -1,0 +1,12 @@
+{
+  "name": "picnic-auth-client",
+  "version": "0.0.0",
+  "description": "PicnicAuthClient",
+  "main": "app.js",
+  "author": {
+    "name": "matishadow"
+  },
+  "dependencies": {
+    "typed-rest-client": "^0.15.1"
+  }
+}

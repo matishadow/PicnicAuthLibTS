@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PicnicAuthClient", "PicnicAuthClient\PicnicAuthClient.njsproj", "{5F65F064-F5D5-4405-BA5B-E63518857B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F65F064-F5D5-4405-BA5B-E63518857B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F65F064-F5D5-4405-BA5B-E63518857B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F65F064-F5D5-4405-BA5B-E63518857B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F65F064-F5D5-4405-BA5B-E63518857B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D37698D-30C1-4117-8129-8FC1598A65E7}
+	EndGlobalSection
+EndGlobal

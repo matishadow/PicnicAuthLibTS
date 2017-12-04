@@ -1,0 +1,2 @@
+C:\Users\matishadow\PicnicAuthLibs\PicnicAuthLibTS\PicnicAuthClient\PicnicAuthClient\obj\Debug\PicnicAuthClient.njsproj.CoreCompileInputs.cache
+C:\Users\matishadow\PicnicAuthLibs\PicnicAuthLibTS\PicnicAuthClient\PicnicAuthClient\bin\Microsoft.NodejsTools.WebRole.dll
